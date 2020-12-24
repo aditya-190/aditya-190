@@ -1,4 +1,4 @@
-![](profile.png)
+![](profile.gif)
 
 # Aditya Bhardwaj
 
