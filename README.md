@@ -1,4 +1,4 @@
-![](abhi.png)
+![](profile.png)
 
 # Aditya Bhardwaj
 
@@ -8,10 +8,10 @@ You can find me on
 <br>
  <br>
 <a href="https://www.linkedin.com/in/adi-bhardwaj/">
-  <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aditya's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
-<a href="https://github.com/aditya-190">
-  <img align="left" alt="Aditya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.codechef.com/users/aadi_01">
+  <img align="left" alt="Aditya's Codechef" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/843/843260.svg" />
 </a>
 <br>
 <br>
