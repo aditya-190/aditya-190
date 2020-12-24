@@ -5,7 +5,9 @@
 I'm a B.tech(2nd yr) student. I'm from Noida, India.
 <br><br>
 
-You can find me on : 
+You can find me on :
+<br><br>
+
 <a href="https://www.linkedin.com/in/adi-bhardwaj/">
   <img align="left" alt="Aditya's Linkdein" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a> <a href="https://www.codechef.com/users/aadi_01">
