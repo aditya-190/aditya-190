@@ -26,4 +26,3 @@ You can find me on :
 
 # My Github Stats
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya-190&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-190&layout=compact&langs_count=8&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
