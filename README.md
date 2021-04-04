@@ -79,7 +79,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:heart: From [Aditya](https://github.com/aditya-190)
 
 [website]: https://adi-bhardwaj.web.app
 [twitter]: https://twitter.com/aditya-190
