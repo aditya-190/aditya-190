@@ -11,14 +11,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
 
-
-### Connect with me:
-
-[<img align="left" alt="Aditya Bhardwaj | Portfolio" width="22px" src="" />][Portfolio]
-[<img align="left" alt="Aditya Bhardwaj | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="Aditya Bhardwaj | Certificates" width="22px" src="" />][Certificates]
-[<img align="left" alt="Aditya Bhardwaj | Resume" width="22px" src="" />][Resume]
-
 <br />
 
 ### Languages and Tools:
@@ -52,11 +44,9 @@
 
 <a href="https://profile.codersrank.io/user/aditya-190"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aditya-190&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
 
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Souravdey777)](https://github.com/Souravdey777)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aditya-190)](https://github.com/aditya-190)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-190&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/aditya-190)
 
 
 ---
@@ -65,9 +55,10 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 ### You can find in me in the web 🌍
 [<img align="left" alt="aditya-190" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aditya-190 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="aditya-190 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aditya-190 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aditya-190 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aditya-190 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="aditya-190 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerank.svg" />][hackerank]
+[<img align="left" alt="aditya-190 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br/>
 
@@ -82,8 +73,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :heart: From [Aditya](https://github.com/aditya-190)
 
 [website]: https://adi-bhardwaj.web.app
-[twitter]: https://twitter.com/aditya-190
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/aditya-190/
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
 [medium]: https://medium.com/@ab2225/
+[codechef]: https://www.codechef.com/users/aadi_01
+[hackerank]: https://www.hackerrank.com/aadi_bbhardwaj
+[codeforces]: https://codeforces.com/profile/adibhardwaj190
