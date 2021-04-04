@@ -8,6 +8,8 @@
 - 🌱 I’m trying to learn everything. 🤣
 - 🥅 Goals: Learning and more learning.
 
+![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
+
 ### Connect with me:
 
 [<img align="left" alt="Aditya Bhardwaj | Portfolio" width="22px" src="" />][Portfolio]
@@ -46,7 +48,9 @@
 <img align="left" alt="html5" width="26px" src="" />
 <br />
 <br />
+
 ---
+
 <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.aditya-190.vercel.app/api?username=aditya-190&show_icons=true&hide_border=true" />
 
 # Aditya Bhardwaj (Honey) { aditya-190 }
