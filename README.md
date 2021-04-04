@@ -15,15 +15,14 @@
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=android&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=java&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=kotlin&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=flutter&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=dart&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Android-563D7C?style=flat&logo=android&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Kotlin-cc6699?style=flat&logo=kotlin&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Flutter-F1502F?style=flat&logo=flutter&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Dart-563D7C?style=flat&logo=dart&logoColor=FFFFFF">
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=clogoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-C-659ad2?style=flat&logo=clogoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
