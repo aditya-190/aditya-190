@@ -28,6 +28,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-190&show_icons=true&hide_border=true)
 
+![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=aditya-190&theme=xcode)](https://git.io/aditya-190)
+
 
 ---
 
