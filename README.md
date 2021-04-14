@@ -38,7 +38,6 @@
 [<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerank]
 [<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br/>
@@ -57,5 +56,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
 [medium]: https://medium.com/@ab2225/
 [codechef]: https://www.codechef.com/users/aadi_01
-[hackerank]: https://www.hackerrank.com/aadi_bbhardwaj
 [codeforces]: https://codeforces.com/profile/adibhardwaj190
