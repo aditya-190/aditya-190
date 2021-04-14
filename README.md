@@ -1,4 +1,3 @@
-![](profile.jpg)
 
 ### Hi there, I'm Aditya Bhardwaj 👋
 
