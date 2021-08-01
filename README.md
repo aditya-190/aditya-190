@@ -37,19 +37,15 @@
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 <br/>
 
-
----
-
-## Check out my Apps here
-
-[<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
-
-
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
 :heart: From [Aditya](https://github.com/aditya-190)
+
+## Check out my Apps here
+
+[<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
 
 [website]: https://adi-bhardwaj.web.app
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
