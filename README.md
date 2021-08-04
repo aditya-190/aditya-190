@@ -32,7 +32,6 @@
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
-[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 <br/>
@@ -52,7 +51,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [medium]: https://medium.com/@ab2225/
 [codechef]: https://www.codechef.com/users/aadi_01
 [leetcode]: https://leetcode.com/aadi_01/
-[hackerrank]: https://www.hackerrank.com/aadi_bbhardwaj
 [hackerearth]: https://www.hackerearth.com/@aditya5132
 [dribbble]: https://dribbble.com/aditya-bhardwaj
 [behance]: https://www.behance.net/adityabhardwaj8
