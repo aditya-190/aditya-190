@@ -43,6 +43,10 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-190)](https://git.io/streak-stats)
+
+
 [website]: https://adi-bhardwaj.web.app
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
 [medium]: https://medium.com/@ab2225/
