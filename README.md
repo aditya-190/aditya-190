@@ -1,4 +1,4 @@
-![Hello](banner.jpeg)
+![Hello](banner.gif)
 
 ### Hi there, I'm Aditya Bhardwaj 👋
 
