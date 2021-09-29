@@ -1,11 +1,11 @@
-<h1 align="center"> <img src="https://github.com/aditya-190/aditya-190/blob/master/banner.gif" alt="Hello World"> <br >I'm <a href="https://www.linkedin.com/in/adi-bhardwaj/">Aditya Bhardwaj</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/aditya-190/aditya-190/blob/main/banner.gif" alt="Hello World"> <br >I'm <a href="https://www.linkedin.com/in/adi-bhardwaj/">Aditya Bhardwaj</a>👨‍💻</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/Aditya Bhardwaj-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adi-bhardwaj/)
-[![Instagram Badge](https://img.shields.io/badge/Aditya Bhardwaj-30302f?style=flat&logo=instagram)](https://www.instagram.com/aditya_bhardwaj_9/)
+[![Linkedin Badge](https://img.shields.io/badge/Aditya-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adi-bhardwaj/)
+[![Instagram Badge](https://img.shields.io/badge/Aditya-30302f?style=flat&logo=instagram)](https://www.instagram.com/aditya_bhardwaj_9/)
 [![Gmail Badge](https://img.shields.io/badge/aadi.bbhardwaj@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:aadi.bbhardwaj@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=aditya-190.aditya-190) 
 
-<img align="right" alt="Coder" src="https://github.com/aditya-190/aditya-190/blob/master/work.gif" width="400px" />
+<img align="right" alt="Coder" src="https://github.com/aditya-190/aditya-190/blob/main/work.gif" width="400px" />
 
 ## I'm a Student and Developer!
 
