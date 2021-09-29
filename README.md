@@ -1,4 +1,4 @@
-![Hello](../master/myFolder/image.png)
+![Hello](banner.jpeg)
 
 ### Hi there, I'm Aditya Bhardwaj 👋
 
