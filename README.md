@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer!
 
-<img align="right" alt="GIF" src="https://github.com/aditya-190/aditya-190/blob/main/work.gif" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/aditya-190/aditya-190/blob/main/work.gif" width="300px" />
 
 - 🏄‍ Android Developer who loves building amazing Applications.
 - ⚙️ Filled with the potential of converting ideas into working products.
