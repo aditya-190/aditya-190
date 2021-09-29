@@ -1,6 +1,6 @@
 ![Hello](banner.gif)
 
-### Hi there, I'm Aditya Bhardwaj 👋
+### Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## I'm a Student and Developer!
 
