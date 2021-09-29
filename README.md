@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Aditya-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adi-bhardwaj/)
 [![Instagram Badge](https://img.shields.io/badge/Aditya-30302f?style=flat&logo=instagram)](https://www.instagram.com/aditya_bhardwaj_9/)
 [![Gmail Badge](https://img.shields.io/badge/aadi.bbhardwaj@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:aadi.bbhardwaj@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=aditya-190.aditya-190) 
+![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
 
 <img align="right" alt="Coder" src="https://github.com/aditya-190/aditya-190/blob/main/work.gif" width="400px" />
 
@@ -19,9 +19,6 @@
 - 🎨 Fun Fact: Being hydrated increases my productivity.
 - 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
 - 🌐 Visit my Website : [Aditya Bhardwaj][website]
-
-![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
-
 
 
 ### Languages and Tools:
