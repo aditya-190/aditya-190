@@ -47,7 +47,12 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-190)](https://git.io/streak-stats)
+|<img src="https://github-readme-stats.vercel.app/api?username=aditya-190&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
+|---|---|
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-190&layout=compact"/>
+</p>
 
 
 [website]: https://adi-bhardwaj.web.app
