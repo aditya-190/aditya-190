@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" height = "200px" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141448558-630cdf96-45cb-4401-ba98-c505bad4a56b.gif" />
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141458096-5aa35ee6-23a8-4626-9488-592725310ef3.gif" />
 </p>
 
 # Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
