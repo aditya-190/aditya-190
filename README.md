@@ -40,7 +40,7 @@
 
 **Others**
 <br>
-<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src = "https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  <img src = "https://img.shields.io/badge/Github-B000B9?style=for-the-badge&logo=github&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
+<img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src = "https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Github-B000B9?style=for-the-badge&logo=github&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">  <img src = "https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <br>
 
 ## Find Me Here 🌍
