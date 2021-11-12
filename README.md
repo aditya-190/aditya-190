@@ -1,10 +1,10 @@
 <p align="center">
-  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141448558-630cdf96-45cb-4401-ba98-c505bad4a56b.gif" width="300px" />
+  <img align="center" height = "200px" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141448558-630cdf96-45cb-4401-ba98-c505bad4a56b.gif" />
 </p>
 
 # Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### I'm a Student and Developer!
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141448558-630cdf96-45cb-4401-ba98-c505bad4a56b.gif" width="300px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300px" />
 
 - 🏄‍ Android Developer who loves building amazing Applications.
 - ⚙️ Filled with the potential of converting ideas into working products.
@@ -66,6 +66,9 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 <br>
 |<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-190&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
 |---|---|
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://adi-bhardwaj.web.app
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
