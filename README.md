@@ -1,7 +1,7 @@
 ![Hello](banner.gif)
 # Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ### I'm a Student and Developer!
-<img align="right" alt="GIF" src="https://github.com/aditya-190/aditya-190/blob/main/work.gif" width="300px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141448558-630cdf96-45cb-4401-ba98-c505bad4a56b.gif" width="300px" />
 
 - 🏄‍ Android Developer who loves building amazing Applications.
 - ⚙️ Filled with the potential of converting ideas into working products.
