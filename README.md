@@ -1,56 +1,108 @@
 ![Hello](banner.gif)
-
-### Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-## I'm a Student and Developer!
-
+# Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### I'm a Student and Developer!
 <img align="right" alt="GIF" src="https://github.com/aditya-190/aditya-190/blob/main/work.gif" width="300px" />
 
 - 🏄‍ Android Developer who loves building amazing Applications.
 - ⚙️ Filled with the potential of converting ideas into working products.
 - 🌱 I love to learn new things and ready to help others.
-- ⚡ In my free time, you'll find me listening music or watching some series
+- ⚡ In my free time, you'll find me listening music or watching some series.
 - 📫 How to reach me: mail me at aadi.bbhardwaj@gmail.com
-- 🧙‍♂️ Currently working on Advance Android skills.
+- 🧙‍♂️ Currently working on improving problem solving and Jetpack Compose.
 - 💬 Ask me about anything and everything!
 - 🎨 Fun Fact: Being hydrated increases my productivity.
 - 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
 - 🌐 Visit my Website : [Aditya Bhardwaj][website]
 
 ![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
+<br>
 
+## Languages and Tools:
+**As Mobile Developer**
+<br>
 
+<img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/ROOM%20DB-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<br>
 
-### Languages and Tools:
+**As UX Developer**
+<br>
 
-<img src="https://img.shields.io/badge/-Android-563D7C?style=flat&logo=android&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Kotlin-cc6699?style=flat&logo=kotlin&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Jetpack-563D7C?style=flat&logo=Jetpack&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Flutter-F1502F?style=flat&logo=flutter&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Dart-563D7C?style=flat&logo=dart&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-unity-000000?style=flat&logo=Unity&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/-C%23-659ad2?style=flat&logo=C%23logoColor=ffffff">  <img src="https://img.shields.io/badge/-C++-659ad2?style=flat&logo=C++logoColor=ffffff">  <img src="https://img.shields.io/badge/-C-659ad2?style=flat&logo=ClogoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">    <img src="https://img.shields.io/badge/-Room DB-F29111?style=flat&logo=room&logoColor=ffffff">    <img src="https://img.shields.io/badge/-PyCharm-F89820?style=flat&logo=pycharm&logoColor=ffffff">    <img src="https://img.shields.io/badge/-Linux-007ACC?style=flat&logo=linux&logoColor=ffffff">    <img src="https://img.shields.io/badge/-MacOS-FFA611?style=flat&logo=mac&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Shell Scripting-000000?style=flat&logo=bash&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Figma-eed718?style=flat&logo=figma&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Adobe XD-cc6699?style=flat&logo=adobexd&logoColor=ffffff">
-<br />
-### Other Languages I know
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<br />
-### Find Me Here 🌍
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-<br/>
+<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+<img src="https://img.shields.io/badge/-Zeplin-F1502F?style=for-the-badge&logo=zeplin&logoColor=FFFFFF">
+<br>
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+**As Game Developer**
+<br>
+
+<img align="left" src="https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=Unity&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<br>
+
+**As Web Developer**
+<br>
+
+<img align="left" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="left" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="left" src = "https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="left" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="left" src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<br>
+
+**As Python Developer**
+<br>
+
+<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/-PyCharm-F89820?style=for-the-badge&logo=pycharm&logoColor=ffffff">
+<img align="left" src="https://img.shields.io/badge/WebStorm-FF318C?style=for-the-badge&logo=WebStorm&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/-Shell Scripting-0095D5?style=for-the-badge&logo=bash&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+**Others**
+<br>
+
+<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="left" src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">
+<img align="left" src="http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
+<br>
+
+## Find Me Here 🌍
+[<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-3776AB?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
+[<img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
+<a href="mailto:aadi.bbhardwaj@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br>
 
 **Check the Repositories and don't forget to give a star.** 👇
+<br>
 
-:heart: From [Aditya](https://github.com/aditya-190)
+Let's connect 👨‍💻 and forge the future together.😁✌
+<br>
+
+[<img src="https://forthebadge.com/images/badges/built-with-love.svg">][GitHub]
+<br>
 
 ## Check out my Apps here
-
-[<img src="https://img.shields.io/badge/google%20play-%230077B5.svg?&style=for-the-badge&logo=google-play&logoColor=white%22" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
-
-
-|<img src="https://github-readme-stats.vercel.app/api?username=aditya-190&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
+[<img align="left" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
+<br>
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-190&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
-
+[GitHub]: https://github.com/aditya-190
 [website]: https://adi-bhardwaj.web.app
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
 [medium]: https://medium.com/@ab2225/
