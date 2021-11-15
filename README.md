@@ -67,9 +67,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 |<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-190&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [website]: https://adi-bhardwaj.web.app
 [linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
 [medium]: https://medium.com/@ab2225/
