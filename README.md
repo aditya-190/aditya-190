@@ -49,7 +49,6 @@
 ## Find Me Here 🌍
 [<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-FF5151?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
 [<img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
 <a href="mailto:aadi.bbhardwaj@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
