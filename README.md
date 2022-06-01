@@ -2,9 +2,9 @@
   <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141458096-5aa35ee6-23a8-4626-9488-592725310ef3.gif" />
 </p>
 
-# Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40">
 ### I'm a Student and Developer!
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="400" />
 
 - 🏄‍ Android Developer who loves building amazing Applications.
 - ⚙️ Filled with the potential of converting ideas into working products.
