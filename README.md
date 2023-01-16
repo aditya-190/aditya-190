@@ -64,7 +64,7 @@
 **Check the Repositories and don't forget to give a star.** 👇
 <br>
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-190&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-190&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&hide_border=false&&show_icons=true"/>|
 |---|---|
 
 Let's connect 👨‍💻 and forge the future together.😁✌
