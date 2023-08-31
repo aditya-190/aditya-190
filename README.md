@@ -35,7 +35,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"><br>Express.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40"><br>Selenium</td>
     <td align="center"><img src="https://scrapy.org/favicons/favicon-192x192.png" alt="Scrapy" width="40"><br>Scrapy</td>
-    <td align="center"><img src="https://chakra-ui.com/favicon.png" alt="Chakra UI" width="40"><br>Chakra UI</td>
     <td align="center"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"><br>Vite</td>
   </tr>
 </table>
