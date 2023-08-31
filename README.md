@@ -1,77 +1,125 @@
-<p align="center">
-  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141458096-5aa35ee6-23a8-4626-9488-592725310ef3.gif" />
-</p>
-
-# Hi there, I'm Aditya Bhardwaj <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40">
-### I'm a Student and Developer!
+# I'm Aditya Bhardwaj
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300" />
 
-- 🏄‍ Software Developer who loves building amazing Applications.
-- ⚙️ Filled with the potential of converting ideas into working products.
-- 🌱 I love to learn new things and ready to help others.
-- ⚡ In my free time, you'll find me listening music or watching some series.
+- 🌱 I love to learn new things and building amazing Applications.
+- 🧙‍♂️ Currently working on improving problem solving.
 - 📫 How to reach me: mail me at aadi.bbhardwaj@gmail.com
-- 🧙‍♂️ Currently working on improving problem solving and Jetpack Compose.
-- 💬 Ask me about anything and everything!
-- 🎨 Fun Fact: Being hydrated increases my productivity.
-- 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
-- 🌐 Visit my Website : [Aditya Bhardwaj][website]
+- 🌐 Visit my Website: [Link](https://adi-bhardwaj.web.app)
 
-![Profile views](https://gpvc.arturio.dev/aditya-190)  <img src="https://img.shields.io/github/followers/aditya-190?label=Follow" style=" float:left, margin-right:10px" />
-<br>
-<br>
+## Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="50"><br>Kotlin</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50"><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50"><br>CSS</td>
+  </tr>
+</table>
 
-## Languages and Tools I have Worked Upon:
-**Mobile Development**
-<br>
-<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">  <img src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">  <img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">  <img src = "https://img.shields.io/badge/Jetpack Compose-470137?style=for-the-badge&logo=jetpack&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  <img src = "https://img.shields.io/badge/ROOM%20DB-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<br>
+## Development Frameworks and Libraries
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" width="50"><br>Android</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="50"><br>Gradle</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" width="50"><br>Ktor</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50"><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50"><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50"><br>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50"><br>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="50"><br>Selenium</td>
+    <td align="center"><img src="https://scrapy.org/favicons/favicon-192x192.png" alt="Scrapy" width="50"><br>Scrapy</td>
+    <td align="center"><img src="https://chakra-ui.com/favicon.png" alt="Chakra UI" width="50"><br>Chakra UI</td>
+    <td align="center"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="50"><br>Vite</td>
+  </tr>
+</table>
 
-**Web Development**
-<br>
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src = "https://img.shields.io/badge/React JS-0769AD?style=for-the-badge&logo=react&logoColor=white">  <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">    <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> <img src = "https://img.shields.io/badge/WebStorm-FF318C?style=for-the-badge&logo=WebStorm&logoColor=white">  
+## Databases and Cloud Platforms
+<table>
+  <tr>
+    <td align="center"><img src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" alt="RoomDB" width="80"><br>RoomDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50"><br>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50"><br>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="50"><br>GCP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50"><br>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50"><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="50"><br>Cloudflare</td>
+  </tr>
+</table>
 
-**Backend Development**
-<br>
-<img src = "https://img.shields.io/badge/Ktor-0095D5?style=for-the-badge&logo=Ktor&logoColor=white">  <img src = "https://img.shields.io/badge/Node JS-07405E?style=for-the-badge&logo=nodejs&logoColor=white">  <img src = "https://img.shields.io/badge/Express JS-ED8B00?style=for-the-badge&logo=express&logoColor=white">  <img src = "https://img.shields.io/badge/MongoDB-239120?style=for-the-badge&logo=mongodb&logoColor=white">  <img src = "https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">  <img src = "https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white">  <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<br>
+## IDEs and Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50"><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50"><br>IntelliJ IDEA</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50"><br>Visual Studio Code</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" width="50"><br>WebStorm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="60"><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" alt="Bash/Shell Scripting" width="60"><br>Bash</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="60"><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50"><br>Figma</td>
+    <td align="center"><img src="https://cdn.sanity.io/images/wd3e2pma/production/7b336dc26fd85ae98b414761d58238d225876a88-60x48.svg" alt="Zeplin" width="50"><br>Zeplin</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50"><br>Postman</td>
+  </tr>
+</table>
 
-**Python Development**
-<br>
-<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src = "https://img.shields.io/badge/PyCharm-F89820?style=for-the-badge&logo=pycharm&logoColor=ffffff">  <img src = "https://img.shields.io/badge/Scrapy-5E5C5C?style=for-the-badge&logo=scrapy&logoColor=black">    <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">  <img src = "https://img.shields.io/badge/Shell Scripting-0095D5?style=for-the-badge&logo=bash&logoColor=ffffff">  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<br>
+## Containerization and Deployment Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50"><br>GitHub Actions</td>
+  </tr>
+</table>
 
-**UX Designing**
-<br>
-<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <img src = "https://img.shields.io/badge/Zeplin-470137?style=for-the-badge&logo=zeplin&logoColor=FFFFFF">
-<br>
+## Others
+<table>
+  <tr>
+    <td>
+      <a href="https://adi-bhardwaj.web.app">
+        <img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-FF5151?style=for-the-badge&logo=About.me&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://play.google.com/store/apps/developer?id=aditya_bhardwaj">
+        <img align="left" src="https://img.shields.io/badge/Google_Play-FF5151?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/adi-bhardwaj/">
+        <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codingninjas.com/studio/profile/aadi_01">
+        <img src="https://img.shields.io/badge/coding_ninjas-%23D14836.svg?&style=for-the-badge&logo=Coding-Ninjas&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/aadi_01">
+        <img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/aadi_01/">
+        <img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:aadi.bbhardwaj@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Version Control**
-<br>
-<img src = "https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Github-B000B9?style=for-the-badge&logo=github&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
-<br>
-<br>
-
-## Find Me Here 🌍
-[<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-FF5151?style=for-the-badge&logo=About.me&logoColor=white" />][website]
-[<img align="left" src="https://img.shields.io/badge/Google_Play-FF5151?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/developer?id=aditya_bhardwaj)
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />][codechef]
-[<img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
-<a href="mailto:aadi.bbhardwaj@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br>
-
-**Check the Repositories and don't forget to give a star.** 👇
-<br>
 
 |<img align="left" src="https://github-readme-stats.vercel.app/api?username=aditya-190&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=dark"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-190&&show_icons=true&theme=dark"/>|
 |---|---|
-
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-[website]: https://adi-bhardwaj.web.app
-[linkedin]: https://www.linkedin.com/in/adi-bhardwaj/
-[medium]: https://medium.com/@ab2225/
-[codechef]: https://www.codechef.com/users/aadi_01
-[leetcode]: https://leetcode.com/aadi_01/
