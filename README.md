@@ -48,7 +48,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40"><br>SQLite</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40"><br>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40"><br>Redis</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="40"><br>GCP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40"><br>Firebase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40"><br>Vercel</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40"><br>Cloudflare</td>
@@ -96,16 +95,6 @@
     <td>
       <a href="https://www.linkedin.com/in/adi-bhardwaj/">
         <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.codingninjas.com/studio/profile/aadi_01">
-        <img src="https://img.shields.io/badge/coding_ninjas-%23D14836.svg?&style=for-the-badge&logo=Coding-Ninjas&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.codechef.com/users/aadi_01">
-        <img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
       </a>
     </td>
     <td>
